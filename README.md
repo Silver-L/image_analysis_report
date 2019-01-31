@@ -1,7 +1,7 @@
 # image_analysis_report
 image analysis report
 
-##Network Architecture:
+## Network Architecture:
 
 | Layername     | configs       |
 | ------------- |:-------------:|
@@ -9,7 +9,7 @@ image analysis report
 | Dense         | 10-d, ReLu    |
 | Output        | 1-d, sigmoid  |
 
-##Result:
+## Result:
 
 | Accuracy      |
 |:-------------:|
